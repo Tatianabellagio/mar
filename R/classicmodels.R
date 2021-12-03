@@ -1,4 +1,4 @@
-require(dplyr)
+#.require(dplyr)
 ################################################################################
 whittakerplot2<-function(y, color='grey'){
   myM=sads::rad(y)

@@ -1,4 +1,4 @@
-require(dplyr)
+#require(dplyr)
 ################################################################################
 # classic SFS
 predSFS<-function(M,n=1000){
